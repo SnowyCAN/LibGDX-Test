@@ -1,0 +1,54 @@
+
+Mario.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mario/jump
+  rotate: false
+  xy: 0, 36
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario/run
+  rotate: false
+  xy: 0, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 0
+mario/run
+  rotate: false
+  xy: 18, 36
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 1
+mario/run
+  rotate: false
+  xy: 18, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 2
+mario/stand
+  rotate: false
+  xy: 36, 36
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario/brickBlock
+  rotate: false
+  xy: 36, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario/stoneBlock
+  rotate: false
+  xy: 36, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
